@@ -1,4 +1,10 @@
 ### Hi there 👋
+Hey there! I'm Germain, a seasoned software engineer with about 15 years in the tech arena. More than just a tech enthusiast, I'm deeply invested in being a collaborative team player and an adept problem solver. 
+
+My greatest satisfaction comes from designing user-centric software solutions that align with real-world needs. I excel in understanding and applying cutting-edge technologies in .NET and Microsoft ecosystems and Javascript frameworks, but not limited to. 
+
+My journey has evolved from hands-on coding to leading and architecting complex systems, always focusing on innovation and team synergy.
+
 
 <!--
 **gercarino/gercarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
